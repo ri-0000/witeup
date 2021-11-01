@@ -77,7 +77,7 @@ $result = db::commit($query);
 一回目の`$_POST['password']`が`%s`を含んでいると、その次に`db.prepare` を呼ぶと再度クォートが追加されるので任意のsql文を実行することができる。  
 最終的なペイロードは以下のようになる。
 
-`password=%s&name[]=)+or+1=1;+#&name[]=aa` 
+`password=%s&name[]=) or 1=1; #&name[]=aa` 
 
 
 ## フラグ
