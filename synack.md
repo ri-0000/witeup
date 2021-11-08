@@ -6,7 +6,6 @@
 - IMF - The Search
 - Userland City
 
-HTB{r3s3rv4t1on_t0_h311_1s_a11_s3t!}
 
 # SimPlay	
 > ソースコードあり

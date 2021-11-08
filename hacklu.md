@@ -1,3 +1,5 @@
+# 問題
+- [web] Diamond Safe
 # [web] Diamond Safe
 
 問題はログインの部分とフラグをとる部分に分かれる。
