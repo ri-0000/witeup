@@ -1,3 +1,7 @@
+# Synack Red Team CTF
+![](/img/SynackRedTeamFiveCTF.png)  
+解いたのは web ,forensic の全部と misc 一つです。  
+writeup は web のみです。
 # 問題
 - SimPlay	
 - Potent Quotes
